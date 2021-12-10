@@ -16,3 +16,9 @@
 .yellow {
     background-color: yellow;
 }
+
+.bigPlant {
+    font-size: 30px;
+    line-height: 1.5;
+    text-transform: uppercase;
+}
